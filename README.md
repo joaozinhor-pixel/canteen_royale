@@ -1,3 +1,2 @@
 # canteen_royale
-projeto software cantina 7.0
-.
+Projeto de Software para cantina do Ifal campus Palmeira dos Indios, nosso objetivo é tornar mais fãcil e rápido a compra e vendas de produtos na cantina, tanto para as vendedoras quanto para os alunos do campus
