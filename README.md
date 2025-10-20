@@ -22,8 +22,4 @@ O Projeto está em desenvolvimento.
 -Gustavo Piancó
 -João Vitor
 -José Lucas
-<<<<<<< HEAD
 -Júlio Cesar
-=======
--Júlio Cesar
->>>>>>> 68257c207cda744f02ea1b243331e299a2354115
